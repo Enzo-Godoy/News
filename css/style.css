@@ -1,52 +1,16 @@
-*{
+/* Comentario :;
+
+*/
+
+body{
 	margin: 0px;
-	padding: 0px;
+	padding: 10px;
 	margin-left: 10px;
-}
-
-h1 {
-	color: brown;
-    font-family:fantasy;
-    font-size: 26px;
-    text-decoration: none;
-
+	font-family: sans-serif;
+	font-size: 14px;
 }
 
 
-//Logo bloque
-#logo img{
-	margin: 10px;
-	padding-right: 5px;
-}
-#logo {	
-	margin: 15px;
-	padding: 10px;
-	display: inline-block;
-}
-#btnMenu {
-	float: right;
-	padding: 10px;
-	margin:10px;
-	width: 25px;
-	height: 25px;
-
-}
 
 
-//Lista de menu
-#menu { 	
-	/*	background-color: gray !important; * interesting tool to assign hierarchy to some property */
-	text-decoration: none;
-	background-color: black;
-	margin: 20px;
 
-}
-a:hover{
-	background-color: red;
-}
-
-article {
-	margin-top: 20px;
-	width: 70%;
-	height:200px;
-}
